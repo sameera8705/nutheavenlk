@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/	FALSE	1999999999	PHPSESSID	kgmb0o90e9l2a3cps89nih5a7f
+localhost	TRUE	/	FALSE	1999999999	SameSite	Lax
+
